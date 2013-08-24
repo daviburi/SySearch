@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"result"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"gettea",
+				"getTeamCoefficients"
+			],
+			[
+				"so",
+				"soup"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"divi",
+				"divider2"
+			],
+			[
+				"divide",
+				"divider1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dave/projects/algorithms/PS 1/inversionsNumber",
+		"/Users/dave/Dropbox/Programming/betparse/test/untitled.html",
+		"/Users/dave/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dave/projects/octopress/_config.yml",
+		"/Users/dave/projects/betparse/betparse.py",
+		"/Users/dave/Dropbox/Programming/betparse/betparse.py",
+		"/Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/urllib/request.py",
+		"/Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/site-packages/bs4/__init__.py",
+		"/Users/dave/Library/Application Support/Sublime Text 2/Packages/User/python3.sublime-build",
+		"/Users/dave/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/dave/Dropbox/Programming/cpp/dave.cpp",
+		"/Users/dave/Dropbox/Programming/dip/alphametics.py",
+		"/Users/dave/Desktop/secretary.py",
+		"/Users/dave/Desktop/euler.py",
+		"/Users/dave/Dropbox/Programming/python/dave.py",
+		"/Users/dave/Dropbox/Programming/betparse/# anchors extraction from html document",
+		"/Users/dave/Study/R/passwords.csv",
+		"/Users/dave/Programming/R/passwords.csv",
+		"/Users/dave/Dropbox/Programming/dip/pickleversion.py",
+		"/Users/dave/Library/Application Support/Sublime Text 2/Packages/User/cpp.sublime-build",
+		"/Users/dave/Dropbox/Programming/python/untitled"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pron",
+			"    ",
+			"urllib",
+			"<span>Match Betting</span>",
+			"chelsea",
+			"<span>Match Betting</span>",
+			"match betting",
+			"match result and both",
+			"match result and",
+			"eventprice",
+			"title",
+			"2.50",
+			"correc",
+			"9.00",
+			"man",
+			"</ol>\n<ol>\n",
+			".p",
+			"lean\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			" ",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 286.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"прези",
+				"Неграмотный президент"
+			],
+			[
+				"",
+				"Неграмотный президент"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
